@@ -1,1 +1,146 @@
-{}
+{
+    "Milestones": {
+        "M 1": {
+            "Stage": "Planning",
+            "Tasks": [
+                {
+                    "1": "Build dandelion-lite",
+                    "date": "6-5-2024",
+                    "status": "completed"
+                },
+                {
+                    "2": "Set repo https://github.com/GameChangerFinance/dandelion-lite to public",
+                    "date": "1-2-2025",
+                    "status": "completed"
+                },
+                {
+                    "3": "Publish project outline",
+                    "date": "10-3-2025",
+                    "status": "completed"
+                }
+            ],
+            "Delivery month" : "February 2025"
+        },
+        "M 2": {
+            "Stage": "DNO onboarding",
+            "Tasks": [
+                {
+                    "1": "Onboarding people to be DNOs",
+                    "date": "",
+                    "status": "In progress (3 out of 6)"
+                },
+                {
+                    "2": "Build DAO website for dandelion governance. track connected nodes here: https://dandelion.m2tec.nl/m2, repo https://github.com/M2tec/dando-DAO ",
+                    "date": "",
+                    "status": "In progress"
+                },
+                {
+                    "3": "Publish list of Dandelion-lite nodes to github https://github.com/M2tec/F13-Dandelion-lite/blob/master/dno-list.json",
+                    "date": "",
+                    "status": "completed"
+                }
+            ],
+            "Delivery month" : "May 2025"
+
+        },
+        "M 3": {
+            "Stage": "Education",
+            "Tasks": [
+                {
+                    "1": "Arrange course setup with Andamio",
+                    "date": "",
+                    "status": "Not started"
+                },
+                {
+                    "2": "Extend DAO website for dandelion governance. Proposal voting and Unimatrix multisig: https://dandelion.m2tec.nl/m3, repo https://github.com/M2tec/dando-DAO ",
+                    "date": "",
+                    "status": "Not started"
+                },
+                {
+                    "3": "Course material: Dando node setup guilde",
+                    "date": "",
+                    "status": "Not started"
+                },
+                {
+                    "4": "Course material: Services overview",
+                    "date": "",
+                    "status": "Not started"
+                },
+                {
+                    "4": "Course material: Docker maintenance tasks",
+                    "date": "",
+                    "status": "Not started"
+                },
+                {
+                    "5": "Course material: Podman installation overview",
+                    "date": "",
+                    "status": "Not started"
+                },
+                {
+                    "6": "Course material: Guide how to add new services",
+                    "date": "",
+                    "status": "Not started"
+                }
+            ],
+            "Delivery month" : "July 2025"
+        },
+        "M 4": {
+            "Stage": "Future maintanance",
+            "Tasks": [
+                {
+                    "1": "Build a list of mainenace tasks See gimbalabs governance on notion: https://gimbalabs.notion.site/Milestone-4-Maintenance-ideas-18c0db6d1d5d80709d87c1a57e6198cc?pvs=4",
+                    "date": "",
+                    "status": "Started"
+                },
+                {
+                    "2": "Extend DAO website for dandelion governance. Proposal voting and Unimatrix multisig: https://dandelion.m2tec.nl/m4, repo https://github.com/M2tec/dando-DAO ",
+                    "date": "",
+                    "status": "Not started"
+                },
+                {
+                    "3": "Onboarding 5 people to have Dandelion-lite education certificates",
+                    "date": "",
+                    "status": "Not started"
+                },
+                {
+                    "4": "Tasklist of provided work",
+                    "date": "",
+                    "status": "Not started"
+                },
+                {
+                    "5": "Added multisig governance to dandelion-lite governance site https://dandelion.m2tec.nl/m4",
+                    "date": "",
+                    "status": "Not started"
+                },
+                {
+                    "6": "DAO treasury funded with 20.000 ADA",
+                    "date": "",
+                    "status": "Not started"
+                }
+
+            ],
+            "Delivery month" : "August 2025"
+        },
+        "M Final": {
+            "Stage": "Close-out",
+            "Tasks": [
+                {
+                    "1": "Evalutation Meeting",
+                    "date": "",
+                    "status": "Not started"
+                },
+                {
+                    "2": "Close-out report",
+                    "date": "",
+                    "status": "In progress"
+                },
+                {
+                    "3": "Close-out video",
+                    "date": "",
+                    "status": "In progress"
+                }
+            ],
+            "Delivery month" : "September 2025"
+        }
+    }
+}
