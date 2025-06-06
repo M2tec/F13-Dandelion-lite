@@ -1,1 +1,884 @@
-
+[
+    {
+        "id": "0x1fd66",
+        "name": "Maarten M | M2tec",
+        "hardware": "Atari",
+        "mainnetWallet": "addr1q90gjzk6n2kstjfwrhhtwv22s6cw2pwhurespfjnu8kf7u23gjk6qsah0qks97d4vxsnztvj8rgn9ah0qda7rtkthd9qkfay0x",
+        "preprodWallet": "addr_test1qz759fg46yvp28wrcmnxn87xq30yj6c8mh7y40zjnrg9h546h0qr3avqde9mumdaf4gykrtjz58l30g7mpy3r8nxku7q3dtrlt",
+        "services": [
+            {
+                "id": "0x1fdcc",
+                "subnet": "PREPROD",
+                "network": "CARDANO",
+                "tag": "GRAPHQL",
+                "url": "https://preprod-sunflower.m2tec.nl/",
+                "uptime": [
+                    {
+                        "id": "0x1fd6e",
+                        "month": 6,
+                        "days": "222222000000000000000000000000"
+                    },
+                    {
+                        "id": "0x1fd75",
+                        "month": 7,
+                        "days": "0"
+                    },
+                    {
+                        "id": "0x1fd76",
+                        "month": 5,
+                        "days": "2222222222222222222222222222222"
+                    },
+                    {
+                        "id": "0x1fd7d",
+                        "month": 4,
+                        "days": "122222222222222222220222222222"
+                    },
+                    {
+                        "id": "0x1fd96",
+                        "month": 3,
+                        "days": "0000000000000222220222222222222"
+                    },
+                    {
+                        "id": "0x1fda1",
+                        "month": 1,
+                        "days": "0"
+                    },
+                    {
+                        "id": "0x1fdcd",
+                        "month": 2,
+                        "days": "0"
+                    },
+                    {
+                        "id": "0x1fdfa",
+                        "month": 11,
+                        "days": "0"
+                    },
+                    {
+                        "id": "0x1fe06",
+                        "month": 9,
+                        "days": "0"
+                    },
+                    {
+                        "id": "0x1fe0e",
+                        "month": 12,
+                        "days": "0"
+                    },
+                    {
+                        "id": "0x1fe0f",
+                        "month": 10,
+                        "days": "0"
+                    },
+                    {
+                        "id": "0x1fe10",
+                        "month": 8,
+                        "days": "0"
+                    }
+                ]
+            },
+            {
+                "id": "0x1fe1e",
+                "subnet": "MAINNET",
+                "network": "CARDANO",
+                "tag": "GRAPHQL",
+                "url": "https://mainnet-sunflower.m2tec.nl/",
+                "uptime": [
+                    {
+                        "id": "0x1fd6f",
+                        "month": 11,
+                        "days": "0"
+                    },
+                    {
+                        "id": "0x1fd97",
+                        "month": 1,
+                        "days": "0"
+                    },
+                    {
+                        "id": "0x1fda8",
+                        "month": 5,
+                        "days": "2222222222222222222222222222222"
+                    },
+                    {
+                        "id": "0x1fdb9",
+                        "month": 8,
+                        "days": "0"
+                    },
+                    {
+                        "id": "0x1fdba",
+                        "month": 4,
+                        "days": "122222211111111212220222122222"
+                    },
+                    {
+                        "id": "0x1fdc2",
+                        "month": 12,
+                        "days": "0"
+                    },
+                    {
+                        "id": "0x1fde0",
+                        "month": 3,
+                        "days": "0000000000000222210222222222222"
+                    },
+                    {
+                        "id": "0x1fde1",
+                        "month": 6,
+                        "days": "222222000000000000000000000000"
+                    },
+                    {
+                        "id": "0x1fde7",
+                        "month": 7,
+                        "days": "0"
+                    },
+                    {
+                        "id": "0x1fdee",
+                        "month": 2,
+                        "days": "0"
+                    },
+                    {
+                        "id": "0x1fe11",
+                        "month": 9,
+                        "days": "0"
+                    },
+                    {
+                        "id": "0x1fe12",
+                        "month": 10,
+                        "days": "0"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "0x1fda9",
+        "name": "PEACEpool dandeli0n",
+        "hardware": "48c/192gb/4tb",
+        "mainnetWallet": "addr1qxyh3m7vwdw79rw97m0lghjxhhk9pjmsn6dfe2ms2m043ppvrzdp4wcghqx83fez83rz9t0lzjtqn3ug5ujnuugq4jpq39tkw2",
+        "preprodWallet": "addr_test1qqs96h3jdydyeplsvampynrh7fwy4txr4kp2mu4pxf7xzqadqwj2u3djrag0mene2cm9elu5mdqmcz9zc2rzgq7c5g6qkr75h0",
+        "services": [
+            {
+                "id": "0x1fd70",
+                "subnet": "PREPROD",
+                "network": "CARDANO",
+                "tag": "GRAPHQL",
+                "url": "https://preprod-lite.dandelion.link/",
+                "uptime": [
+                    {
+                        "id": "0x1fd67",
+                        "month": 12,
+                        "days": "0"
+                    },
+                    {
+                        "id": "0x1fd7f",
+                        "month": 1,
+                        "days": "0"
+                    },
+                    {
+                        "id": "0x1fd8a",
+                        "month": 9,
+                        "days": "0"
+                    },
+                    {
+                        "id": "0x1fdaa",
+                        "month": 7,
+                        "days": "0"
+                    },
+                    {
+                        "id": "0x1fdab",
+                        "month": 4,
+                        "days": "222222222222222222110122222212"
+                    },
+                    {
+                        "id": "0x1fdb0",
+                        "month": 5,
+                        "days": "2222222222222222222222222222222"
+                    },
+                    {
+                        "id": "0x1fdc5",
+                        "month": 3,
+                        "days": "0000000000000211110222222122222"
+                    },
+                    {
+                        "id": "0x1fdda",
+                        "month": 2,
+                        "days": "0"
+                    },
+                    {
+                        "id": "0x1fe07",
+                        "month": 6,
+                        "days": "222222000000000000000000000000"
+                    },
+                    {
+                        "id": "0x1fe08",
+                        "month": 11,
+                        "days": "0"
+                    },
+                    {
+                        "id": "0x1fe19",
+                        "month": 10,
+                        "days": "0"
+                    },
+                    {
+                        "id": "0x1fe20",
+                        "month": 8,
+                        "days": "0"
+                    }
+                ]
+            },
+            {
+                "id": "0x1fd89",
+                "subnet": "MAINNET",
+                "network": "CARDANO",
+                "tag": "GRAPHQL",
+                "url": "https://mainnet-lite.dandelion.link/",
+                "uptime": [
+                    {
+                        "id": "0x1fd6a",
+                        "month": 6,
+                        "days": "222222000000000000000000000000"
+                    },
+                    {
+                        "id": "0x1fd7e",
+                        "month": 3,
+                        "days": "0000000000000111110111111111111"
+                    },
+                    {
+                        "id": "0x1fd90",
+                        "month": 1,
+                        "days": "0"
+                    },
+                    {
+                        "id": "0x1fdb6",
+                        "month": 12,
+                        "days": "0"
+                    },
+                    {
+                        "id": "0x1fdbb",
+                        "month": 2,
+                        "days": "0"
+                    },
+                    {
+                        "id": "0x1fdc3",
+                        "month": 9,
+                        "days": "0"
+                    },
+                    {
+                        "id": "0x1fdc4",
+                        "month": 10,
+                        "days": "0"
+                    },
+                    {
+                        "id": "0x1fde8",
+                        "month": 4,
+                        "days": "111111111111111111110111111111"
+                    },
+                    {
+                        "id": "0x1fdef",
+                        "month": 5,
+                        "days": "1111111111111111111111111111122"
+                    },
+                    {
+                        "id": "0x1fe13",
+                        "month": 7,
+                        "days": "0"
+                    },
+                    {
+                        "id": "0x1fe18",
+                        "month": 11,
+                        "days": "0"
+                    },
+                    {
+                        "id": "0x1fe1f",
+                        "month": 8,
+                        "days": "0"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "0x1fd83",
+        "name": "VaultBoy89",
+        "hardware": "Intel Xeon E5-2680 v4 (14 cores 28 and threads) (120W TDP)",
+        "mainnetWallet": "addr1q9z3wmu6qcaxcj6f2gl4d8fesc89s7dujs72z2sdqdrs9jkagkyc6hn3tm554wrncavlnjsedvcf7d8h5wsp658r9lts0rt4qq",
+        "preprodWallet": "addr_test1qpz3wmu6qcaxcj6f2gl4d8fesc89s7dujs72z2sdqdrs9jkagkyc6hn3tm554wrncavlnjsedvcf7d8h5wsp658r9ltsv4k4vl",
+        "services": [
+            {
+                "id": "0x1fd91",
+                "subnet": "MAINNET",
+                "network": "CARDANO",
+                "tag": "GRAPHQL",
+                "url": "https://ar02.gamechanger.finance:2087/",
+                "uptime": [
+                    {
+                        "id": "0x1fd77",
+                        "month": 12,
+                        "days": "0"
+                    },
+                    {
+                        "id": "0x1fd8b",
+                        "month": 8,
+                        "days": "0"
+                    },
+                    {
+                        "id": "0x1fdac",
+                        "month": 9,
+                        "days": "0"
+                    },
+                    {
+                        "id": "0x1fdb1",
+                        "month": 10,
+                        "days": "0"
+                    },
+                    {
+                        "id": "0x1fdd5",
+                        "month": 2,
+                        "days": "0"
+                    },
+                    {
+                        "id": "0x1fde2",
+                        "month": 7,
+                        "days": "0"
+                    },
+                    {
+                        "id": "0x1fde9",
+                        "month": 4,
+                        "days": "222222222222222212220111221111"
+                    },
+                    {
+                        "id": "0x1fdf0",
+                        "month": 3,
+                        "days": "0000000000000212120222121222222"
+                    },
+                    {
+                        "id": "0x1fdf1",
+                        "month": 1,
+                        "days": "0"
+                    },
+                    {
+                        "id": "0x1fdfb",
+                        "month": 5,
+                        "days": "1122112121111211211212122111121"
+                    },
+                    {
+                        "id": "0x1fdfc",
+                        "month": 11,
+                        "days": "0"
+                    },
+                    {
+                        "id": "0x1fe1a",
+                        "month": 6,
+                        "days": "122122000000000000000000000000"
+                    }
+                ]
+            },
+            {
+                "id": "0x1fdc9",
+                "subnet": "PREPROD",
+                "network": "CARDANO",
+                "tag": "GRAPHQL",
+                "url": "https://ar02.gamechanger.finance:2096/",
+                "uptime": [
+                    {
+                        "id": "0x1fd80",
+                        "month": 6,
+                        "days": "122122000000000000000000000000"
+                    },
+                    {
+                        "id": "0x1fd84",
+                        "month": 11,
+                        "days": "0"
+                    },
+                    {
+                        "id": "0x1fd85",
+                        "month": 2,
+                        "days": "0"
+                    },
+                    {
+                        "id": "0x1fd92",
+                        "month": 10,
+                        "days": "0"
+                    },
+                    {
+                        "id": "0x1fd93",
+                        "month": 8,
+                        "days": "0"
+                    },
+                    {
+                        "id": "0x1fdad",
+                        "month": 7,
+                        "days": "0"
+                    },
+                    {
+                        "id": "0x1fdbc",
+                        "month": 12,
+                        "days": "0"
+                    },
+                    {
+                        "id": "0x1fdce",
+                        "month": 9,
+                        "days": "0"
+                    },
+                    {
+                        "id": "0x1fdfd",
+                        "month": 1,
+                        "days": "0"
+                    },
+                    {
+                        "id": "0x1fe09",
+                        "month": 4,
+                        "days": "222222222222222212220111111111"
+                    },
+                    {
+                        "id": "0x1fe0c",
+                        "month": 3,
+                        "days": "0000000000000212110222222212222"
+                    },
+                    {
+                        "id": "0x1fe21",
+                        "month": 5,
+                        "days": "1111111111111222222212222121122"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "0x1fde3",
+        "name": "ratio",
+        "hardware": "Ryzen 9950X, 128GB, 2x2TB + 1 TB, dual NIC",
+        "mainnetWallet": "addr1q8h8svc5naqj6r9pv9xdjtdk7k5shgj995qp850apg8e57um9awef5q9ql56c6r6hjzkcmr97pfcy00y958jutzx3gws50e2tw",
+        "preprodWallet": "addr_test1qq6hs6p4s9mx7cf7ldpql9e7n5levu0j06zp2s6u89m7jv0azgj0uzd9dh3r0drhcukyvn3fsy8rzv7vxegp6ptl9aaq3vl4tl",
+        "services": [
+            {
+                "id": "0x1fde4",
+                "subnet": "MAINNET",
+                "network": "CARDANO",
+                "tag": "GRAPHQL",
+                "url": "https://mainnet.sunstr13-dandelion-node.duckdns.org/",
+                "uptime": [
+                    {
+                        "id": "0x1fd69",
+                        "month": 8,
+                        "days": "0"
+                    },
+                    {
+                        "id": "0x1fd71",
+                        "month": 11,
+                        "days": "0"
+                    },
+                    {
+                        "id": "0x1fd7a",
+                        "month": 3,
+                        "days": "0"
+                    },
+                    {
+                        "id": "0x1fd8d",
+                        "month": 12,
+                        "days": "0"
+                    },
+                    {
+                        "id": "0x1fdb2",
+                        "month": 7,
+                        "days": "0"
+                    },
+                    {
+                        "id": "0x1fdb3",
+                        "month": 1,
+                        "days": "0"
+                    },
+                    {
+                        "id": "0x1fdb4",
+                        "month": 6,
+                        "days": "222222000000000000000000000000"
+                    },
+                    {
+                        "id": "0x1fdc0",
+                        "month": 9,
+                        "days": "0"
+                    },
+                    {
+                        "id": "0x1fdc6",
+                        "month": 4,
+                        "days": "000000000000000000000000111111"
+                    },
+                    {
+                        "id": "0x1fdcf",
+                        "month": 5,
+                        "days": "1111111111111111111111111222122"
+                    },
+                    {
+                        "id": "0x1fdff",
+                        "month": 2,
+                        "days": "0"
+                    },
+                    {
+                        "id": "0x1fe02",
+                        "month": 10,
+                        "days": "0"
+                    }
+                ]
+            },
+            {
+                "id": "0x1fde5",
+                "subnet": "PREPROD",
+                "network": "CARDANO",
+                "tag": "GRAPHQL",
+                "url": "https://preprod.skill13-dandelion-node.duckdns.org/",
+                "uptime": [
+                    {
+                        "id": "0x1fd94",
+                        "month": 9,
+                        "days": "0"
+                    },
+                    {
+                        "id": "0x1fd95",
+                        "month": 2,
+                        "days": "0"
+                    },
+                    {
+                        "id": "0x1fd98",
+                        "month": 11,
+                        "days": "0"
+                    },
+                    {
+                        "id": "0x1fd9d",
+                        "month": 1,
+                        "days": "0"
+                    },
+                    {
+                        "id": "0x1fda3",
+                        "month": 3,
+                        "days": "0"
+                    },
+                    {
+                        "id": "0x1fda7",
+                        "month": 7,
+                        "days": "0"
+                    },
+                    {
+                        "id": "0x1fdd0",
+                        "month": 4,
+                        "days": "000000000000000000000000111111"
+                    },
+                    {
+                        "id": "0x1fddb",
+                        "month": 12,
+                        "days": "0"
+                    },
+                    {
+                        "id": "0x1fdde",
+                        "month": 10,
+                        "days": "0"
+                    },
+                    {
+                        "id": "0x1fdea",
+                        "month": 6,
+                        "days": "122222000000000000000000000000"
+                    },
+                    {
+                        "id": "0x1fded",
+                        "month": 8,
+                        "days": "0"
+                    },
+                    {
+                        "id": "0x1fe0b",
+                        "month": 5,
+                        "days": "1111111111111111111111111211121"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "0x1fd81",
+        "name": "sudoScientist",
+        "hardware": "Dell R710",
+        "mainnetWallet": "addr1qx2jlz9fdaetcr2xx0jhsqp3splke8yv32x8jt0txsh800ssq4x3ar05hszqyk2ry8xneylhxueawsrndud6tvmk4cjsy8eqfp",
+        "preprodWallet": "addr_test1qz3k548yndfd8dggfvlluky3ur0q9zqcdsv5acc99v63s9ddqwj2u3djrag0mene2cm9elu5mdqmcz9zc2rzgq7c5g6qrjt0mf",
+        "services": [
+            {
+                "id": "0x1fda4",
+                "subnet": "PREPROD",
+                "network": "CARDANO",
+                "tag": "GRAPHQL",
+                "url": "https://arpnode-preprod.duckdns.org",
+                "uptime": [
+                    {
+                        "id": "0x1fd6c",
+                        "month": 6,
+                        "days": "111122000000000000000000000000"
+                    },
+                    {
+                        "id": "0x1fd99",
+                        "month": 3,
+                        "days": "0"
+                    },
+                    {
+                        "id": "0x1fd9e",
+                        "month": 5,
+                        "days": "0000011111111111111111111111111"
+                    },
+                    {
+                        "id": "0x1fdb5",
+                        "month": 7,
+                        "days": "0"
+                    },
+                    {
+                        "id": "0x1fdbd",
+                        "month": 1,
+                        "days": "0"
+                    },
+                    {
+                        "id": "0x1fdd8",
+                        "month": 12,
+                        "days": "0"
+                    },
+                    {
+                        "id": "0x1fddc",
+                        "month": 11,
+                        "days": "0"
+                    },
+                    {
+                        "id": "0x1fddf",
+                        "month": 4,
+                        "days": "0"
+                    },
+                    {
+                        "id": "0x1fdf4",
+                        "month": 9,
+                        "days": "0"
+                    },
+                    {
+                        "id": "0x1fdf5",
+                        "month": 2,
+                        "days": "0"
+                    },
+                    {
+                        "id": "0x1fdf8",
+                        "month": 10,
+                        "days": "0"
+                    },
+                    {
+                        "id": "0x1fe14",
+                        "month": 8,
+                        "days": "0"
+                    }
+                ]
+            },
+            {
+                "id": "0x1fdf9",
+                "subnet": "MAINNET",
+                "network": "CARDANO",
+                "tag": "GRAPHQL",
+                "url": "https://arpnode-mainnet.duckdns.org",
+                "uptime": [
+                    {
+                        "id": "0x1fd6d",
+                        "month": 8,
+                        "days": "0"
+                    },
+                    {
+                        "id": "0x1fd72",
+                        "month": 3,
+                        "days": "0"
+                    },
+                    {
+                        "id": "0x1fd9f",
+                        "month": 9,
+                        "days": "0"
+                    },
+                    {
+                        "id": "0x1fdbe",
+                        "month": 4,
+                        "days": "0"
+                    },
+                    {
+                        "id": "0x1fdc1",
+                        "month": 12,
+                        "days": "0"
+                    },
+                    {
+                        "id": "0x1fdcb",
+                        "month": 5,
+                        "days": "0000012111112211111211122212121"
+                    },
+                    {
+                        "id": "0x1fdf6",
+                        "month": 7,
+                        "days": "0"
+                    },
+                    {
+                        "id": "0x1fe00",
+                        "month": 11,
+                        "days": "0"
+                    },
+                    {
+                        "id": "0x1fe04",
+                        "month": 10,
+                        "days": "0"
+                    },
+                    {
+                        "id": "0x1fe15",
+                        "month": 2,
+                        "days": "0"
+                    },
+                    {
+                        "id": "0x1fe16",
+                        "month": 1,
+                        "days": "0"
+                    },
+                    {
+                        "id": "0x1fe22",
+                        "month": 6,
+                        "days": "122222000000000000000000000000"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "0x1fd82",
+        "name": "zxpectre",
+        "hardware": "Intel Xeon E5-2680 v4 (14 cores 28 and threads) (120W TDP)",
+        "mainnetWallet": "addr1q9faamq9k6557gve35amtdqph99h9q2txhz07chaxg6uwwgd6j6v0fc04n5ehg292yxvs292vesrqqmxqfnp7yuwn7yqczuqwr",
+        "preprodWallet": "addr_test1qpfaamq9k6557gve35amtdqph99h9q2txhz07chaxg6uwwgd6j6v0fc04n5ehg292yxvs292vesrqqmxqfnp7yuwn7yqm5pqzu",
+        "services": [
+            {
+                "id": "0x1fd73",
+                "subnet": "PREPROD",
+                "network": "CARDANO",
+                "tag": "GRAPHQL",
+                "url": "https://ar01.gamechanger.finance:2083/",
+                "uptime": [
+                    {
+                        "id": "0x1fd7c",
+                        "month": 6,
+                        "days": "222212000000000000000000000000"
+                    },
+                    {
+                        "id": "0x1fd8f",
+                        "month": 9,
+                        "days": "0"
+                    },
+                    {
+                        "id": "0x1fd9a",
+                        "month": 2,
+                        "days": "0"
+                    },
+                    {
+                        "id": "0x1fda0",
+                        "month": 5,
+                        "days": "1122212221122211222221121221122"
+                    },
+                    {
+                        "id": "0x1fda5",
+                        "month": 11,
+                        "days": "0"
+                    },
+                    {
+                        "id": "0x1fdaf",
+                        "month": 1,
+                        "days": "0"
+                    },
+                    {
+                        "id": "0x1fdb8",
+                        "month": 3,
+                        "days": "0000000000000212120222122212222"
+                    },
+                    {
+                        "id": "0x1fdc8",
+                        "month": 4,
+                        "days": "222222222222222112220111121111"
+                    },
+                    {
+                        "id": "0x1fdd4",
+                        "month": 8,
+                        "days": "0"
+                    },
+                    {
+                        "id": "0x1fddd",
+                        "month": 12,
+                        "days": "0"
+                    },
+                    {
+                        "id": "0x1fdf7",
+                        "month": 10,
+                        "days": "0"
+                    },
+                    {
+                        "id": "0x1fe05",
+                        "month": 7,
+                        "days": "0"
+                    }
+                ]
+            },
+            {
+                "id": "0x1fe17",
+                "subnet": "MAINNET",
+                "network": "CARDANO",
+                "tag": "GRAPHQL",
+                "url": "https://ar01.gamechanger.finance:2053/",
+                "uptime": [
+                    {
+                        "id": "0x1fd74",
+                        "month": 7,
+                        "days": "0"
+                    },
+                    {
+                        "id": "0x1fd7b",
+                        "month": 6,
+                        "days": "222112000000000000000000000000"
+                    },
+                    {
+                        "id": "0x1fd8e",
+                        "month": 8,
+                        "days": "0"
+                    },
+                    {
+                        "id": "0x1fdae",
+                        "month": 5,
+                        "days": "1122212111122111222221122222122"
+                    },
+                    {
+                        "id": "0x1fdb7",
+                        "month": 12,
+                        "days": "0"
+                    },
+                    {
+                        "id": "0x1fdc7",
+                        "month": 1,
+                        "days": "0"
+                    },
+                    {
+                        "id": "0x1fdd9",
+                        "month": 3,
+                        "days": "0000000000000212120222222222222"
+                    },
+                    {
+                        "id": "0x1fde6",
+                        "month": 10,
+                        "days": "0"
+                    },
+                    {
+                        "id": "0x1fdeb",
+                        "month": 11,
+                        "days": "0"
+                    },
+                    {
+                        "id": "0x1fe03",
+                        "month": 2,
+                        "days": "0"
+                    },
+                    {
+                        "id": "0x1fe1c",
+                        "month": 4,
+                        "days": "222222222222222112220112121121"
+                    },
+                    {
+                        "id": "0x1fe1d",
+                        "month": 9,
+                        "days": "0"
+                    }
+                ]
+            }
+        ]
+    }
+]
