@@ -25,6 +25,12 @@
             "status": "Finished"
         },
         {
+            "name": "Build DAO site to manage Dandelion-lite treasury",
+            "description": "To keep track of funds and monitor the Dandelion-lite network",
+            "owner": "Maarten Menheere",
+            "status": "In progress"
+        },
+        {
             "name": "PGAdmin container",
             "description": "Add a PGAdmin container for database query without login",
             "owner": "Maarten Menheere",
