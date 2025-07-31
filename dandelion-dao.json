@@ -1,1 +1,124 @@
-
+{
+    "tasks": [
+        {
+            "name": "Unimatrix container",
+            "description": "Unimatrix is a P2P key sharing system using gunDB",
+            "owner": "Adriano Fiorenza",
+            "status": "Finished"
+        },
+        {
+            "name": "PGAdmin container",
+            "description": "Add a PGAdmin container for database query without login",
+            "owner": "Maarten Menheere",
+            "status": "Finished"
+        },
+        {
+            "name": "Koios maintenance May",
+            "description": "Create a cron container to automatically update schema queries",
+            "owner": "Adriano Fiorenza",
+            "status": "Finished"
+        },
+        {
+            "name": "Healthchecks maintenance",
+            "description": "Make sure health of Cardano node and db-Sync are monitored correctly",
+            "owner": "Maarten Menheere",
+            "status": "Finished"
+        },
+        {
+            "name": "PGAdmin container",
+            "description": "Add a PGAdmin container for database query without login",
+            "owner": "Maarten Menheere",
+            "status": "Finished"
+        },
+        {
+            "name": "Investigate GraphQL performance issues",
+            "description": "Some queries are slow to perform, review GraphQL codebase",
+            "owner": "Maarten Menheere",
+            "status": "Finished"
+        },
+        {
+            "name": "Chang hardfork support",
+            "description": "Add support for Cardano node Chang hard fork",
+            "owner": "Adriano Fiorenza",
+            "status": "Finished"
+        },
+        {
+            "name": "Backup and Restore feature",
+            "description": "Allow backing up and restoring the local container volumes",
+            "owner": "Adriano Fiorenza",
+            "status": "Finished"
+        },
+        {
+            "name": "Backup download",
+            "description": "Allow remote downloading of container volumes from other nodes",
+            "owner": "Adriano Fiorenza",
+            "status": "Finished"
+        },
+        {
+            "name": "Blockfrost",
+            "description": "Add blockfrost integration",
+            "owner": "Adriano Fiorenza",
+            "status": "In progress"
+        },
+        {
+            "name": "Yaci",
+            "description": "Yaci is a java based Cardano database sync tool.",
+            "owner": "Roberto Morano",
+            "status": "False"
+        },
+        {
+            "name": "Modularity",
+            "description": "Refactor the repo in easy to combine blocks",
+            "owner": "Maarten Menheere",
+            "status": "Initial investigation"
+        },
+        {
+            "name": "Sanchonet",
+            "description": "Add support for Sanchonet network configuration",
+            "owner": "",
+            "status": ""
+        },
+        {
+            "name": "Rate limiting",
+            "description": "Add support for ratelimiting users",
+            "owner": "",
+            "status": ""
+        },
+        {
+            "name": "UTxO-RPC - Dolos",
+            "description": "Add Dolos an UTXO-RPC communication approach",
+            "owner": "",
+            "status": ""
+        },
+        {
+            "name": "NFT Storage",
+            "description": "Add a system for decentralized storage of NFT's",
+            "owner": "",
+            "status": ""
+        },
+        {
+            "name": "Plomin hardfork support",
+            "description": "Add a support for the Plomin hardfork",
+            "owner": "",
+            "status": ""
+        },
+        {
+            "name": "Midnight",
+            "description": "Add a support for the Midnight ",
+            "owner": "",
+            "status": ""
+        },
+        {
+            "name": "Dingo",
+            "description": "Add Dingo a Go implementation of the Cardano node",
+            "owner": "",
+            "status": ""
+        },
+        {
+            "name": "Amaru",
+            "description": "Add Amaru a Rust implementation of the Cardano node",
+            "owner": "",
+            "status": ""
+        }
+    ]
+}
